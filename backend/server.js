@@ -1,4 +1,4 @@
-console.log("branch test second after three ");
+console.log("branch test second after three also ");
 require("dotenv").config();
 console.log("KEY:", process.env.OPENAI_API_KEY);
 const OpenAI = require("openai");
